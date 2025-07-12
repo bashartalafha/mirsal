@@ -42,7 +42,13 @@ You’ll see:
 
 ```
 🚀 Log viewer is live at: https://abc123.ngrok.io
+ * Serving Flask app 'mirsal.cli'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:8000
+Press CTRL+C to quit
 ```
+Open `https://abc123.ngrok.io` NOT `http://127.0.0.1:8000`
 
 Open that URL from your browser or mobile and watch logs live with automatic scrolling.
 
